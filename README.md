@@ -1,52 +1,20 @@
-# 🗽 Future New Yorker
+ #Future New Yorker
 
-A  NYC-themed website I made while learning the basics of **HTML and CSS**.
+I made this website because i always dreamt of newyork city i just want to live there enjoy the places, food, work on cool engineering stuff there,and much more . 
 
-## 🌆 What I Learned
+# What I learned
 
-### HTML
+#html
+I learned 
+I learned how to section tags 
+I learned how to add div tags 
 
-* Basic HTML structure
-* Headings and paragraphs
-* Images using `<img>`
-* Links
-* Sections and containers
-* Using classes
+# CSS
+- I learned 
+- I learned how to 
+- I learned about padding
 
-### CSS
-
-* Colors and backgrounds
-* Fonts and text styling
-* Spacing and margins
-* Flexbox
-* CSS Grid
-* Image sizing
-* Responsive design for smaller screens
-
-## 🛠️ Built With
-
-* HTML
-* CSS
-
-## what i struggled 
-* pushing it to github
-* choosing the colour of website
-* demo link error
-* css 
-
-
-## 📸 Image Credits
-
-Images used in this project were found on **Pinterest** for inspiration and website visuals.
-
-Credit goes to the original creators/owners of the images.
-
-## 💭 About This Project
-
-This is a small project I made to practice HTML and CSS while building something I actually like — **New York City**.
-
- from future newyorker yahhh 
- new york 
-
+# Images
+I found the images on Pinterest.
 demo link :-
 https://bhavanasrinamthabad1809-hub.github.io/newyork/
