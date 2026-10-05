@@ -31,6 +31,8 @@ A  NYC-themed website I made while learning the basics of **HTML and CSS**.
 ## what i struggled 
 * pushing it to github
 * choosing the colour of website
+* demo link error
+* css 
 
 
 ## 📸 Image Credits
