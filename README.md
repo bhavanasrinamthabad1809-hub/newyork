@@ -1,28 +1,36 @@
- #Future New Yorker
+# Future New Yorker
 
-I made this website because i always dreamt of newyork city i just want to live there enjoy the places, food, work on cool engineering stuff there,and much more .
+1. Why I made this website
+- new york always been one of my fav location it will be forever my fav location i wanna know why everyone says new york or no where
+- i am going to visit alot of places work on cool projects make ton lot of frds 
 
-# What I learned
-#html
- -I learned how to add images 
- -I learned how to  add section tags 
-- I learned how to add div tags 
--  I learned how to make image file
- #css
-- I learned how to use different fonts
-- I learned  margin
-- I learned about padding
-  
-  # what i struggled with
-  - the demo link it kept showing 404 error
-  - css photo frame size
-  - creating separate folder for images
-  - choosing the colour
- 
- #Images
-people who post images like this on pins should be credited by god 
-and credit of the images goes the owners 
+2. What I learned
 
-you can also  manifest new york for me yahh 
-demo link :-
-https://bhavanasrinamthabad1809-hub.github.io/newyork/
+HTML
+- Adding images
+- Section tags
+- Div tags
+- Basic page structure
+
+CSS
+- Fonts
+- Margins
+- Padding
+- Image sizing
+- Layout/grid
+
+3. What I struggled with
+- Getting the demo link to work
+- Image sizes/frames
+- Organizing the images folder
+- Choosing colors
+- Making the layout look the way I wanted
+- my doomscrolling too
+- my procrastination
+
+4. Images
+- Images were found on Pinterest
+- Credit the original creators/owners where possible
+- god should give them some credit 
+
+5. Demo
