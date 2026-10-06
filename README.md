@@ -33,8 +33,8 @@ CSS
 - Credit the original creators/owners where possible
 - god should give them some credit
 
-5 ai usage 
-no ai us been used in it 
+5 AI 
+nope no use of ai 
 
  6 Demo
    https://bhavanasrinamthabad1809-hub.github.io/newyork/
