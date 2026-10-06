@@ -31,7 +31,10 @@ CSS
 4. Images
 - Images were found on Pinterest
 - Credit the original creators/owners where possible
-- god should give them some credit 
+- god should give them some credit
 
-5. Demo
+5 ai usage 
+no ai us been used in it 
+
+ 6 Demo
    https://bhavanasrinamthabad1809-hub.github.io/newyork/
